@@ -28,7 +28,7 @@ python app.py
 upload video file and click on Generate Ai Video button
 
 ## Step 4: ✨ Ai Generated Video ✨
-<img class="image-align-left" src="Images/img2.png" width="500"/><img class="image-align-left" width="100"/><img class="image-align-left" src="Images/generated_animation.gif" width="300"/>
+<img class="image-align-left" src="Images/img2.png" width="500"/><img class="image-align-left" width="60"/><img class="image-align-left" src="Images/generated_animation.gif" width="300"/>
 ## Team Members 
  - [Abhijit Rao](https://github.com/Abhijit7979)
  - Chetan
