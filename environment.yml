@@ -19,8 +19,8 @@ dependencies:
       - decord
       - pandas
       - imageio-ffmpeg
-      - omegaconf
       - wandb
       - sentencepiece
-      - beautifulsoup4
       - ftfy
+      - numpy
+      - pillow
