@@ -24,8 +24,11 @@ cd AI-video-Generator/src
 python app.py
 ```
 ##  Step 3: Open Gradio interface 👌
+
 <img src="Images/img_1.png" alt="drawing" width="600"  />
-upload video file and click on Generate Ai Video button
+
+``` sample_synthetic_videos/0BNML.mp4 ```
+upload video file  and click on Generate Ai Video button 
 
 ## Step 4: ✨ Ai Generated Video ✨
 <img class="image-align-left" src="Images/img2.png" width="500"/><img class="image-align-left" width="60"/><img class="image-align-left" src="Images/generated_animation.gif" width="300"/>
